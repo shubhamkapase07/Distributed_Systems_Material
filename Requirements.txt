@@ -1,0 +1,14 @@
+Requirements For Tomorrow Practical:
+
+Java 8 (Not higher than 8 or code doesn't work)
+Eclipse any version
+NetBeans 8.2 (If not available on PC download from informer technologies website only)
+Always check if package name and class file names are same in both Code as well as the actual package
+
+Note: Always install java first then the IDE's it will not give errors
+
+Java
+https://drive.google.com/file/d/1DdHgYTsp0OfbaNIyGZHJ0CeH3Qjd8ZgK/view?usp=sharing
+
+Netbeans
+https://drive.google.com/file/d/1mVX7zaCrVD8goLB8TQ70MlVMmOlJUVVe/view?usp=sharing
